@@ -1,12 +1,4 @@
-[submodule "ros_commons"]
-	path = ros_commons
-	url = https://github.com/guicaldana/ros_commons
-[submodule "rosbot3_description"]
-	path = rosbot3_description
-	url = https://github.com/guicaldana/rosbot3_description
-[submodule "rosbot3_gazebo"]
-	path = rosbot3_gazebo
-	url = https://github.com/guicaldana/rosbot3_gazebo
+
 [submodule "src/rosbot3_gazebo"]
 	path = src/rosbot3_gazebo
 	url = https://github.com/guicaldana/rosbot3_gazebo
