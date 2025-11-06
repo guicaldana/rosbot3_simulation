@@ -7,3 +7,12 @@
 [submodule "rosbot3_gazebo"]
 	path = rosbot3_gazebo
 	url = https://github.com/guicaldana/rosbot3_gazebo
+[submodule "src/rosbot3_gazebo"]
+	path = src/rosbot3_gazebo
+	url = https://github.com/guicaldana/rosbot3_gazebo
+[submodule "src/rosbot3_description"]
+	path = src/rosbot3_description
+	url = https://github.com/guicaldana/rosbot3_description
+[submodule "src/ros_commons"]
+	path = src/ros_commons
+	url = https://github.com/guicaldana/ros_commons
