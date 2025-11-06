@@ -1,1 +1,0 @@
-# rosbot3_description
